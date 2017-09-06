@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+---
+title: Scot Morse
+---
 
-You can use the [editor on GitHub](https://github.com/morses/morses.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to My Portfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a Portfolio of some of my software, developed while a student at Western Oregon University.
 
-### Markdown
+### About Me (or About this Example)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Students at Western Oregon University create a Portfolio of their work during their Senior year.  This is done as a part of the Senior Project, Software Engineering courses ([CS 460](http://www.wou.edu/~morses/classes/cs46x/index.html), 461 and 462).
 
-```markdown
-Syntax highlighted code block
+These pages are an example of using GitHub Pages to create a Portfolio.  This is just an example to show students of one way to set it up.
 
-# Header 1
-## Header 2
-### Header 3
+### Code Repository
 
-- Bulleted
-- List
+All the code seen here is hosted in a separate repository: [https://bitbucket.org/morses/seniorproject_2017-18/](https://bitbucket.org/morses/seniorproject_2017-18/)
 
-1. Numbered
-2. List
+### Software Engineering I (CS 460): Homework
 
-**Bold** and _Italic_ and `Code` text
+1. [Homework 1](cs460/hw1): HTML, CSS, Git and Bootstrap
+2. [Homework 2](cs460/hw2): Add in some Javascript and jQuery, use branching in Git
+3. [Homework 3](cs460/hw3): Learn C# by translating a Java application into a C# console app
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/morses/morses.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
