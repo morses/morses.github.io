@@ -1,6 +1,3 @@
----
-title: Scot Morse
----
 
 ## Welcome to My Portfolio
 
