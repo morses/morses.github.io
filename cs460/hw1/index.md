@@ -42,3 +42,8 @@ Checking the repo webpage --> success!  Looks like I have a working repository a
 ### Step 2: HTML
 
 ![HTML5 Logo](HTML5.png)
+
+I've used HTML before so this should be a cinch...
+
+
+**You get the picture.  Put some real content in here.  Don't just copy and paste your code -- explain it.  Use a blog or post format, or a mini-tutorial or as this one did, a journal entry style.  Whatever you like.  Be creative.  At the very least it must show what you did and why.**
