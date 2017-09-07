@@ -1,5 +1,6 @@
 ---
 title: Scot Morse
+layout: default
 ---
 ## Welcome to My Portfolio
 
