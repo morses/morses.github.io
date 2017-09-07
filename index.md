@@ -4,13 +4,15 @@ layout: default
 ---
 ## Welcome to My Portfolio
 
-This is a Portfolio of some of my software, developed while a student at Western Oregon University.
+If I were a student then this would be a Portfolio of some of my software, developed while a student at Western Oregon University.
 
 ### About Me (or About this Example)
 
-Students at Western Oregon University create a Portfolio of their work during their Senior year.  This is done as a part of the Senior Project, Software Engineering courses ([CS 460](http://www.wou.edu/~morses/classes/cs46x/index.html), 461 and 462).
+This would be a good spot to say a little about yourself.  And then explain a little more about why you're doing this.
 
-These pages are an example of using GitHub Pages to create a Portfolio.  This is just an example to show students of one way to set it up.
+Students at Western Oregon University create a Portfolio of their work during their Senior year.  This is done as a part of the Senior Project, a year-long Software Engineering course ([CS 460](http://www.wou.edu/~morses/classes/cs46x/index.html), 461 and 462).
+
+These pages are an example of using GitHub Pages to organize a Portfolio.  This is just an example to show students of one way to set it up.
 
 ### Code Repository
 
