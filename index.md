@@ -1,4 +1,6 @@
-
+---
+title: Scot Morse
+---
 ## Welcome to My Portfolio
 
 This is a Portfolio of some of my software, developed while a student at Western Oregon University.
